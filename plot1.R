@@ -1,4 +1,4 @@
-source("loadPowerDat.R")
+source("loadPowerData.R")
 data <- loadPowerData()
   
 png("plot1.png",
